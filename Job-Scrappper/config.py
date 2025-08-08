@@ -1,8 +1,8 @@
 import os
 
 # Job Search Parameters
-SEARCH_TERM = ["Software Engineer", "Data Scientist", "Web Developer", "Internship","Cashier","Sales consultent", "Customer Service Representative", "Project Manager", "Marketing Specialist","Tech Intern","Co-op Student"]
-LOCATIONS = ["OTTAWA"]
+SEARCH_TERM = "software engineer"
+LOCATIONS = ["Ottawa"]
 MAX_PAGES = 2
 
 # Indeed Specific Parameters
